@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rebel-roofing-preview.isaaq-abukar-8095.chatgpt.site/sitemap.xml
